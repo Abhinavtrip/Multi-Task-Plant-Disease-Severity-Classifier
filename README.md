@@ -111,7 +111,7 @@ docker run -p 8501:8501 plant-disease-classifier
 
 ### Try it live
 
- Hugging Face Spaces: `< https://huggingface.co/spaces/Abhitrip/plant-disease-classifier>`
+ Hugging Face Spaces:  https://huggingface.co/spaces/Abhitrip/plant-disease-classifier
 
 ##  Results
 
